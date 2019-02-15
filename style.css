@@ -1,0 +1,165 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #EFE783;
+    font-family: 'Roboto', sans-serif; 
+}
+
+h1,h2,h3,h4,h5,h6,p,ul,li, img {
+    margin: 0;
+}
+
+main {
+    width: 960px;
+    margin: 0 auto;
+    background-image: url(../img/headerbg.jpg);
+    background-repeat: no-repeat;
+}
+
+/* header */
+
+header {
+    height: 350px;
+}
+
+img {
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 300;
+    margin-left: 50px;
+    letter-spacing: 25px;
+    color: #fbf2d5;
+}
+
+h2 {
+    margin-bottom: 30px;
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 40px;
+}
+
+section {
+    padding: 50px 90px 60px 170px;
+}
+
+section img {
+    margin-bottom: 30px;
+}
+
+/* header */
+
+header {
+    padding-top: 97px;
+    margin-left: 273px;
+}
+/* section intro */
+
+.intro {
+    background-color: #3D3737;
+}
+
+.intro h2 { 
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 40px;
+    letter-spacing: 15px;
+    text-align: center;
+    border-top: solid 1px #fbf2d5;
+    border-bottom: solid 1px #fbf2d5;
+    margin-right: 320px;
+    margin-left: 240px;
+    padding: 10px;
+    color: #fbf2d5;
+}
+
+.intro p {
+    color: #fbf2d5;
+    text-align: center;
+    font-size: 16px;
+    line-height: 32px;
+    margin-right: 80px;
+}
+
+/* section avengers */
+
+.avengers {
+    background-color: #fff;
+    color: #6BBBB3;
+}
+
+.avengers h2 {
+    line-height: 40px;
+    font-size: 36px;
+    color: #6BBBB3;
+}
+
+.resume {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 300;
+    color: #747474;
+    margin-bottom: 40px;
+} 
+
+.sorti {
+    font-weight: 300px;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+/* ladygaga */
+
+.ladygaga {
+    background-color: #6BBBB3;
+    color: #fefefe;
+}
+
+.ladygaga h2 {
+    line-height: 40px;
+    font-size: 36px;
+    font-weight: 300;
+    color: #3D3737;
+    margin-bottom: 30px;
+}
+
+
+/* woman */
+
+.woman {
+    background-color: #3D3737;
+    color: #fefefe
+}
+
+.woman p {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 300;
+}
+
+.imgwoman {
+    margin-top: 40px;
+}
+
+/* footer */
+
+footer {
+    background-color: #000;
+    color: #fefefe;
+    padding: 50px 90px 65px 90px;
+}
+
+.cite {
+    font-size: 14px;
+    line-height: 20px;
+    color: #EFE783;
+}
+
+
+
